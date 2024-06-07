@@ -93,4 +93,5 @@ int main() {
 #ifdef PragunB02
 	cerr << "Time: " << duration . count() / 1000 << endl;
 #endif
+	
 }
